@@ -1,0 +1,30 @@
+
+h1 { 
+		color: Navy; 
+	font-size: 24pt
+	font-family: 'Indie Flower', cursive;
+}
+
+h2 { color: navy
+font-size: 16pt 
+font-family: 'Indie Flower', cursive;
+ }
+
+Body { 
+	Background: lightskyblue; 
+	color: darkblue;
+	font-size: 14pt;
+	font-family: 'Indie Flower', cursive; 
+}
+
+nav li {
+	display: inline-block;
+	border: 2px solid black;
+	background: white;
+	padding: 12px 
+	margin: 20px
+	}
+
+a{ color:white; 
+	text-decoration: none;}
+a:hover (color; red; }
